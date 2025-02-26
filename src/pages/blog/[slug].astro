@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BlogLayout from '../../layouts/BlogLayout.astro';
+
+export async function getStaticPaths() {
+ const posts = await getCollection('blog');
+ return posts.map((post) => ({
+   params: { slug: post.slug },
+   props: { post },
+ }));
+}
+
+const { post } = Astro.props;
+
+if (!post) {
+ throw new Error(`Post not found`);
+}
+
+// ✅ Ensure valid date formatting
+const formattedDate = post.data.pubDate
+  ? new Date(post.data.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+  : "Unknown Date";
+---
+
+<BlogLayout title={post.data.title} description={post.data.description} date={formattedDate}>
+  <article style="max-width: 800px; margin: auto; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h1 style="color: #2c3e50; font-size: 2.5rem; text-align: center;">{post.data.title}</h1> <!-- ✅ This is now the only title -->
+    <p style="font-size: 0.9rem; color: #888; text-align: center;">Published on {formattedDate}</p>
+    <hr style="margin: 20px 0; border: none; border-top: 1px solid #eee;" />
+
+    <!-- ✅ Ensure Markdown renders as HTML -->
+    <div set:html={post.body}></div>
+  </article>
+
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="/blog" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none;">← Back to Blog</a>
+  </div>
+</BlogLayout>
