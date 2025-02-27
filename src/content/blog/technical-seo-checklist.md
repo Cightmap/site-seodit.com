@@ -13,87 +13,87 @@ tags: [""]
 <h2>Table of Contents: </h2>
 
 <ul id="main-toc">
-	<li><a href="#1optimizeyoursitesloadingspeed">1. Optimize Your Site&#39;s Loading Speed </a>
+    <li><a href="#1optimizeyoursitesloadingspeed">1. Optimize Your Site&#39;s Loading Speed </a>
 
-		<ul>
-			<li><a href="#compressandoptimizeimages">Compress and Optimize Images </a></li>
-			<li><a href="#minimizehttprequests">Minimize HTTP Requests </a></li>
-			<li><a href="#leveragebrowsercaching">Leverage Browser Caching </a></li>
-		</ul>
-	</li>
-	<li><a href="#2ensureyoursiteismobilefriendly">2. Ensure Your Site is Mobile-Friendly </a>
+        <ul>
+            <li><a href="#compressandoptimizeimages">Compress and Optimize Images </a></li>
+            <li><a href="#minimizehttprequests">Minimize HTTP Requests </a></li>
+            <li><a href="#leveragebrowsercaching">Leverage Browser Caching </a></li>
+        </ul>
+    </li>
+    <li><a href="#2ensureyoursiteismobilefriendly">2. Ensure Your Site is Mobile-Friendly </a>
 
-		<ul>
-			<li><a href="#useresponsivedesign">Use Responsive Design </a></li>
-			<li><a href="#testyourmobileusability">Test Your Mobile Usability </a></li>
-		</ul>
-	</li>
-	<li><a href="#3implementasecureconnectionhttps">3. Implement a Secure Connection (HTTPS) </a>
+        <ul>
+            <li><a href="#useresponsivedesign">Use Responsive Design </a></li>
+            <li><a href="#testyourmobileusability">Test Your Mobile Usability </a></li>
+        </ul>
+    </li>
+    <li><a href="#3implementasecureconnectionhttps">3. Implement a Secure Connection (HTTPS) </a>
 
-		<ul>
-			<li><a href="#installansslcertificate">Install an SSL Certificate </a></li>
-			<li><a href="#updateinternallinks">Update Internal Links </a></li>
-		</ul>
-	</li>
-	<li><a href="#4optimizeyoursitestructure">4. Optimize Your Site Structure </a>
+        <ul>
+            <li><a href="#installansslcertificate">Install an SSL Certificate </a></li>
+            <li><a href="#updateinternallinks">Update Internal Links </a></li>
+        </ul>
+    </li>
+    <li><a href="#4optimizeyoursitestructure">4. Optimize Your Site Structure </a>
 
-		<ul>
-			<li><a href="#usealogicalurlstructure">Use a Logical URL Structure </a></li>
-			<li><a href="#implementbreadcrumbs">Implement Breadcrumbs </a></li>
-		</ul>
-	</li>
-	<li><a href="#5createandoptimizeyourxmlsitemap">5. Create and Optimize Your XML Sitemap </a>
+        <ul>
+            <li><a href="#usealogicalurlstructure">Use a Logical URL Structure </a></li>
+            <li><a href="#implementbreadcrumbs">Implement Breadcrumbs </a></li>
+        </ul>
+    </li>
+    <li><a href="#5createandoptimizeyourxmlsitemap">5. Create and Optimize Your XML Sitemap </a>
 
-		<ul>
-			<li><a href="#generateacomprehensivesitemap">Generate a Comprehensive Sitemap </a></li>
-			<li><a href="#submitandmonitoryoursitemap">Submit and Monitor Your Sitemap </a></li>
-		</ul>
-	</li>
-	<li><a href="#6optimizeyourrobotstxtfile">6. Optimize Your Robots.txt File </a>
+        <ul>
+            <li><a href="#generateacomprehensivesitemap">Generate a Comprehensive Sitemap </a></li>
+            <li><a href="#submitandmonitoryoursitemap">Submit and Monitor Your Sitemap </a></li>
+        </ul>
+    </li>
+    <li><a href="#6optimizeyourrobotstxtfile">6. Optimize Your Robots.txt File </a>
 
-		<ul>
-			<li><a href="#createaclearandconciserobotstxt">Create a Clear and Concise Robots.txt </a></li>
-			<li><a href="#testyourrobotstxtfile">Test Your Robots.txt File </a></li>
-		</ul>
-	</li>
-	<li><a href="#7implementschemamarkup">7. Implement Schema Markup </a>
+        <ul>
+            <li><a href="#createaclearandconciserobotstxt">Create a Clear and Concise Robots.txt </a></li>
+            <li><a href="#testyourrobotstxtfile">Test Your Robots.txt File </a></li>
+        </ul>
+    </li>
+    <li><a href="#7implementschemamarkup">7. Implement Schema Markup </a>
 
-		<ul>
-			<li><a href="#chooserelevantschematypes">Choose Relevant Schema Types </a></li>
-			<li><a href="#testyourstructureddata">Test Your Structured Data </a></li>
-		</ul>
-	</li>
-	<li><a href="#8optimizeforcorewebvitals">8. Optimize for Core Web Vitals </a>
+        <ul>
+            <li><a href="#chooserelevantschematypes">Choose Relevant Schema Types </a></li>
+            <li><a href="#testyourstructureddata">Test Your Structured Data </a></li>
+        </ul>
+    </li>
+    <li><a href="#8optimizeforcorewebvitals">8. Optimize for Core Web Vitals </a>
 
-		<ul>
-			<li><a href="#focusonlcpfidandcls">Focus on LCP, FID, and CLS </a></li>
-			<li><a href="#monitorandimprove">Monitor and Improve </a></li>
-		</ul>
-	</li>
-	<li><a href="#9fixbrokenlinksandredirecterrors">9. Fix Broken Links and Redirect Errors </a>
+        <ul>
+            <li><a href="#focusonlcpfidandcls">Focus on LCP, FID, and CLS </a></li>
+            <li><a href="#monitorandimprove">Monitor and Improve </a></li>
+        </ul>
+    </li>
+    <li><a href="#9fixbrokenlinksandredirecterrors">9. Fix Broken Links and Redirect Errors </a>
 
-		<ul>
-			<li><a href="#conductregularlinkaudits">Conduct Regular Link Audits </a></li>
-			<li><a href="#implementproper301redirects">Implement Proper 301 Redirects </a></li>
-		</ul>
-	</li>
-	<li><a href="#10optimizeforinternationalseoifapplicable">10. Optimize for International SEO (If Applicable) </a>
+        <ul>
+            <li><a href="#conductregularlinkaudits">Conduct Regular Link Audits </a></li>
+            <li><a href="#implementproper301redirects">Implement Proper 301 Redirects </a></li>
+        </ul>
+    </li>
+    <li><a href="#10optimizeforinternationalseoifapplicable">10. Optimize for International SEO (If Applicable) </a>
 
-		<ul>
-			<li><a href="#usehreflangtags">Use Hreflang Tags </a></li>
-			<li><a href="#consideracctldorsubdirectories">Consider a ccTLD or Subdirectories </a></li>
-		</ul>
-	</li>
-	<li><a href="#faqsabouttechnicalseochecklist">FAQs about technical seo checklist </a>
+        <ul>
+            <li><a href="#usehreflangtags">Use Hreflang Tags </a></li>
+            <li><a href="#consideracctldorsubdirectories">Consider a ccTLD or Subdirectories </a></li>
+        </ul>
+    </li>
+    <li><a href="#faqsabouttechnicalseochecklist">FAQs about technical seo checklist </a>
 
-		<ul>
-			<li><a href="#whatdoestechnicalseoinclude">What does technical SEO include? </a></li>
-			<li><a href="#howtochecktechnicalseo">How to check technical SEO? </a></li>
-			<li><a href="#howtodotechnicalseostepbystep">How to do technical SEO step by step? </a></li>
-			<li><a href="#whatistheseochecklist">What is the SEO checklist? </a></li>
-		</ul>
-	</li>
-	<li><a href="#conclusion">Conclusion </a></li>
+        <ul>
+            <li><a href="#whatdoestechnicalseoinclude">What does technical SEO include? </a></li>
+            <li><a href="#howtochecktechnicalseo">How to check technical SEO? </a></li>
+            <li><a href="#howtodotechnicalseostepbystep">How to do technical SEO step by step? </a></li>
+            <li><a href="#whatistheseochecklist">What is the SEO checklist? </a></li>
+        </ul>
+    </li>
+    <li><a href="#conclusion">Conclusion </a></li>
 </ul>
 
 <h2 id="1optimizeyoursitesloadingspeed">1. Optimize Your Site&#39;s Loading Speed </h2>
@@ -228,7 +228,7 @@ tags: [""]
 
 <p>Use country code top-level domains (ccTLD) like .uk, or use subdirectories (example.com/uk/). This helps target different countries. You can decide on the right setup that you need. </p>
 <div style="border: 1px solid #03a9f4;margin: 0 auto; display: table;cursor: pointer;font-size: 20px;padding: 0px; border-radius:6px; margin-top:50px; margin-bottom: 50px; max-width: 720px;"> <a href="https://twitter.com/intent/tweet?text=Speed%20is%20very%20important%20today.%20Website%20users%20expect%20websites%20to%20load%20fast%2C%20and%20search%20engines%20like%20Google%20reward%20fast%20websites.%20Page%20speed%20has%20been%20a%20mobile%20ranking%20factor%20since%202018.&via=&related=&url=https://humanverified.org/technical-seo-checklist" style="text-decoration: none;padding: 20px;display: block; cursor:pointer; color: #03a9f4;" target="_blank">Speed is very important today.   Website users expect websites to load fast, and search engines like Google reward fast websites.  Page speed has been a mobile ranking factor since 2018. </a>
-	<div style="display: flex; align-items: center; float: right; margin-right: 5px;"> <a href="https://twitter.com/intent/tweet?text=Speed%20is%20very%20important%20today.%20Website%20users%20expect%20websites%20to%20load%20fast%2C%20and%20search%20engines%20like%20Google%20reward%20fast%20websites.%20Page%20speed%20has%20been%20a%20mobile%20ranking%20factor%20since%202018.&via=&related=&url=https://humanverified.org/technical-seo-checklist" rel="noopener noreferrer" style="font-size: 12px; text-decoration: none; color: #c5c5c5; cursor:pointer;" target="_blank">Click To Tweet </a> <img width="14" src="/assets/images/v4/tweet.svg" alt=""></div></div>
+    <div style="display: flex; align-items: center; float: right; margin-right: 5px;"> <a href="https://twitter.com/intent/tweet?text=Speed%20is%20very%20important%20today.%20Website%20users%20expect%20websites%20to%20load%20fast%2C%20and%20search%20engines%20like%20Google%20reward%20fast%20websites.%20Page%20speed%20has%20been%20a%20mobile%20ranking%20factor%20since%202018.&via=&related=&url=https://humanverified.org/technical-seo-checklist" rel="noopener noreferrer" style="font-size: 12px; text-decoration: none; color: #c5c5c5; cursor:pointer;" target="_blank">Click To Tweet </a> <img width="14" src="/assets/images/v4/tweet.svg" alt=""></div></div>
 
 <h2 id="faqsabouttechnicalseochecklist">FAQs about technical seo checklist </h2>
 
@@ -247,16 +247,16 @@ tags: [""]
 <p>Here are the steps to do technical SEO: </p>
 
 <ol>
-	<li>Perform a site audit. </li>
-	<li>Improve site speed. </li>
-	<li>Ensure the website works well on mobile. </li>
-	<li>Set up HTTPS. </li>
-	<li>Fix site structure. </li>
-	<li>Create a sitemap and submit it. </li>
-	<li>Use a robots.txt file. </li>
-	<li>Add schema markup. </li>
-	<li>Fix broken links and crawl errors. </li>
-	<li>Improve Core Web Vitals. </li>
+    <li>Perform a site audit. </li>
+    <li>Improve site speed. </li>
+    <li>Ensure the website works well on mobile. </li>
+    <li>Set up HTTPS. </li>
+    <li>Fix site structure. </li>
+    <li>Create a sitemap and submit it. </li>
+    <li>Use a robots.txt file. </li>
+    <li>Add schema markup. </li>
+    <li>Fix broken links and crawl errors. </li>
+    <li>Improve Core Web Vitals. </li>
 </ol>
 
 <p>These steps are crucial for improving your website. </p>
