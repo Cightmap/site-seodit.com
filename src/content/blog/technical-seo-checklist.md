@@ -3,7 +3,7 @@ title: "Technical SEO Checklist: Boost Your Site's Performance"
 description: "Discover our comprehensive technical SEO checklist to improve your site's visibility, speed, and user experience. Master the essentials of technical SEO today!"
 pubDate: "2025-02-26"
 author: "Jason Cline for SuperCight Domains via SEOdit.com"
-tags: [""]
+tags: ["Technical SEO", "Site Speed Optimization", "Mobile-Friendly Design", "HTTPS Security", "Site Structure", "XML Sitemap", "Robots.txt", "Schema Markup", "Core Web Vitals", "International SEO"]
 ---
 
 <p>Technical SEO can seem difficult, especially if you&#39;re not experienced with coding. However, having a solid technical SEO checklist can significantly improve your site. This is important for both search engines and creating an amazing experience for your website users. </p>
